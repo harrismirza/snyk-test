@@ -1,0 +1,7 @@
+{
+  "name": "snyk-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "bloater": "1.0.0"
+  }
+}
